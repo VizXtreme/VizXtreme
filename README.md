@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm @VizXtreme
+# 👋 Hey there! I'm VizXtreme
 
 Welcome to my GitHub profile!
 
