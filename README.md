@@ -1,25 +1,53 @@
-# 👋 Hey there! I'm VizXtreme
+<h1 align="center">👋 Hey, I'm VizXtreme</h1>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <i>Turning coffee into code that mostly compiles.</i>
+</p>
 
-## 👨‍💻 About Me
-- 🎮 Gamer, 🎧 Music lover, and 💻 Tech enthusiast
-- 🧠 Currently diving into the worlds of **Java**, **Python**, **C++**, and **Flutter**
-- 💬 Always up for a chat – reach out on **Telegram**: [@VizXtreme](https://t.me/VizXtreme)
-- ⚡ Fun fact: Still figuring out how GitHub works 😅 – but hey, learning is part of the journey!
-
-## 🔭 What I'm Up To
-- Building cool things as I learn more about programming
-- Exploring cross-platform app development with Flutter
-- Messing around with small dev projects in my spare time
-
-## 📚 Currently Learning
-- Java (for the OOP feels)
-- Python (automation + data stuff)
-- C++ (because performance matters!)
-- Flutter (UI wizardry on the rise)
+<p align="center">
+  <a href="https://t.me/VizXtreme">
+    <img src="https://img.shields.io/badge/Telegram-@VizXtreme-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VizXtreme&style=flat&color=blueviolet" />
+  <a href="https://github.com/VizXtreme?tab=followers">
+    <img src="https://img.shields.io/github/followers/VizXtreme?style=flat&color=blue&label=Followers" />
+  </a>
+  <a href="https://github.com/VizXtreme?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VizXtreme&label=Public%20Repos&query=%24.public_repos&color=orange" />
+  </a>
+</p>
 
 ---
 
-_Thanks for stopping by – stay tuned for future projects!_
+### 🎯 About
 
+- 🎮 Gamer · 🎧 Music nerd · 💻 Professional bug creator (debugging optional)
+- 🧠 Currently juggling **Java**, **Python**, **C**, **Kotlin** and **Flutter** — badly, but with confidence
+- ⚡ Fun fact: still figuring out how GitHub works, but the commits keep happening somehow
+
+### 🔭 Currently
+
+- Building small things, breaking them, then building them again (correctly, this time)
+- Exploring Android apps with Kotlin
+- Using Linux containers on Android 
+
+---
+
+### 📊 The Stats Nobody Asked For, But Here They Are
+
+
+<p align="center">
+  <img height="350" src="https://github-stats-extended.vercel.app/api?username=VizXtreme&custom_title=Current%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+  
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VizXtreme&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VizXtreme&theme=transparent&hide_border=true" />
+</p>
+
+> Rank algorithm judges commits, PRs, issues, and stars — so if the circle looks sad, blame the algorithm, not me. 😤
+
+---
+
+<p align="center"><i>Thanks for stopping by — stay tuned, chaos is still loading... 🚧</i></p>
