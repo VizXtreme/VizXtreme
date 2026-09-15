@@ -29,7 +29,9 @@
 
 - Building small things, breaking them, then building them again (correctly, this time)
 - Exploring Android apps with Kotlin
-- Using Linux containers on Android 
+- Building automation stuff using 🐍
+- Using Linux containers on Android ("_I use Arch btw_ " jk, Ubuntu)
+- Into Music and Lyrics ( High-Res Lossless 24-bit 192kHz FLAC ... bla-bla-bla )
 
 ---
 
