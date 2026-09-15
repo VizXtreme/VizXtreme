@@ -22,7 +22,7 @@
 ### 🎯 About
 
 - 🎮 Gamer · 🎧 Music nerd · 💻 Professional bug creator (debugging optional)
-- 🧠 Currently juggling **Java**, **Python**, **C**, **Kotlin** and **Flutter** — badly, but with confidence
+- 🧠 Currently juggling **Java**, **Python**, **C**, **Bash**, **TypeScript**, **Kotlin** and **Flutter** — badly, but with confidence
 - ⚡ Fun fact: still figuring out how GitHub works, but the commits keep happening somehow
 
 ### 🔭 Currently
